@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="display_Str">Type the sentence above this line</string>
+</resources>
